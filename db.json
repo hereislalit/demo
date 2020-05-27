@@ -1,4 +1,5 @@
-[{
+{
+	"users": [{
 			"id": 1,
 			"firstName": "Kailash",
 			"lastName": "Chandra"
@@ -13,4 +14,5 @@
 			"firstName": "Sanjay",
 			"lastName": "Dikshit"
 		}
-]
+	]
+}
